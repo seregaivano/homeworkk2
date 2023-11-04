@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         // задача 1
         int age = 18;
         if (age >= 18) {
